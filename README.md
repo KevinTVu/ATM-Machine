@@ -1,4 +1,4 @@
-# ATM-Machine
+# ATM Machine
 Professor: Phuong Nguyen
 
 Class: CECS 343 - Introduction to Software Engineer
